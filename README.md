@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://ras-bmsit.github.io/sop25  (YET TO BE PUBLISHED)
+**URL*:https://ja616.github.io/sop_25(YET TO BE PUBLISHED)
 
 **Use your preferred IDE**
 
